@@ -26,6 +26,10 @@ Labels and quantities:
 * Neutral 1000
 
 
+
+
+
+
 * Trained using maximum-entropy 
 
 ![COREML 1](https://user-images.githubusercontent.com/7967591/168023652-3c9726da-6469-4bf6-b124-7b779b96ea27.jpg)
