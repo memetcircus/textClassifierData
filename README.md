@@ -26,13 +26,13 @@ Labels and quantities:
 * Neutral 1000
 
 
-Trained using maximum-entropy 
+* Trained using maximum-entropy 
 ![COREML 1](https://user-images.githubusercontent.com/7967591/168023652-3c9726da-6469-4bf6-b124-7b779b96ea27.jpg)
 
-Completed Training
+* Completed Training
 ![CORE ML 2](https://user-images.githubusercontent.com/7967591/168023849-1223efe8-81d4-401f-a53a-867730c8c627.jpg)
 
-The Results
+* The Results
 ![results](https://user-images.githubusercontent.com/7967591/168024034-39eab42d-2be3-4b81-be8c-51f70b227d88.jpg)
 
 
